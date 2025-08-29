@@ -1,4 +1,23 @@
-import wx
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+output/
+dist/
+build/
+*.spec
+
+# VS Code
+.vscode/
+
+# System
+*.log
+*.tmp
+.DS_Store
+Thumbs.dbimport wx
 # Python
 __pycache__/
 *.pyc
@@ -43,6 +62,82 @@ from log_window import LogWindow
 def main():
     app = wx.App(False)
     dlg =    # Python
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    
+    # PyInstaller
+    output/
+    dist/
+    build/
+    *.spec
+    
+    # VS Code
+    .vscode/
+    
+    # System
+    *.log
+    *.tmp
+    .DS_Store
+    Thumbs.db    # Python
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    
+    # PyInstaller
+    output/
+    dist/
+    build/
+    *.spec
+    
+    # VS Code
+    .vscode/
+    
+    # System
+    *.log
+    *.tmp
+    .DS_Store
+    Thumbs.db    # Python
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    
+    # PyInstaller
+    output/
+    dist/
+    build/
+    *.spec
+    
+    # VS Code
+    .vscode/
+    
+    # System
+    *.log
+    *.tmp
+    .DS_Store
+    Thumbs.db    # Python
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    
+    # PyInstaller
+    output/
+    dist/
+    build/
+    *.spec
+    
+    # VS Code
+    .vscode/
+    
+    # System
+    *.log
+    *.tmp
+    .DS_Store
+    Thumbs.db    # Python
     __pycache__/
     *.pyc
     *.pyo
