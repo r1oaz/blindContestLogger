@@ -1,0 +1,7 @@
+output/
+__pycache__/
+*.pyc
+*.spec
+dist/
+build/
+.vscode/
