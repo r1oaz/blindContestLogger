@@ -28,8 +28,28 @@
 
 ## О программе
 Автор: R1BQE
-Сайт: https://r1oaz.ru
+Сайт: https://blind-ham.ru
 
 ---
 
 Для полной справки используйте F1 в программе.
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+output/
+dist/
+build/
+*.spec
+
+# VS Code
+.vscode/
+
+# System
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
